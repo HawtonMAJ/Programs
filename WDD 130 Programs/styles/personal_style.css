@@ -1,0 +1,28 @@
+body {
+    background-color: royalblue;
+    margin: 10px;
+}
+header{
+    background-color: orange;
+    text-align: center;
+}
+header nav{
+    padding: 20px;
+}
+main{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.container{
+    color: white;
+    border: 5px solid white;
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+}
+#content{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
