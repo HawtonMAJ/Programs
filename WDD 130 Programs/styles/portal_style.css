@@ -69,6 +69,19 @@ header{
 .herobutton:hover{
     background-color: #6290c3;
 }
+ul{
+    background-color: #baff29;
+    border-radius: 10px;
+    width: 50vw;
+    justify-self: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+ul h2{
+    text-align: center;
+}
 .challenges{
     margin-top: 15vh;
     display: grid;
